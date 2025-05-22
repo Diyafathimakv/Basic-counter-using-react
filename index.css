@@ -1,0 +1,20 @@
+.counter-container{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  background-color: beige;
+  padding: 10px;
+}
+.count-display{
+  font-size: 2em;
+  margin: 20px;
+}
+.counter-button{
+  font-size: 1.5em;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: blue;
+}
